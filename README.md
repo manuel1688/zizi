@@ -44,9 +44,9 @@ docker run  -p 3000:3000 image_name
 docker container ls --all
 ```
 
-## Show all Docker containers 
+## Stop an Docker containers 
 
-```bash
+```bashß
 docker stop container_id
 ```
 
